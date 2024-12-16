@@ -1,8 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Bu proje, React, React Router DOM, JSON Server ve Axios kullanarak oluşturulmuş bir uygulamadır. Uygulama, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirebilen bir web uygulaması olarak tasarlanmıştır.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#projenin önizlemsi aşağıdadır;
+
+![EkranKayd2024-12-1617 24 03-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/d2e1d44f-19e3-4d26-b776-f52601ed0b7e)
